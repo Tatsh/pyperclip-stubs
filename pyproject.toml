@@ -4,6 +4,11 @@ requires = ["poetry-core"]
 
 [tool]
 
+[tool.commitizen]
+tag_format = "v$version"
+version_files = [".project.jsonnet", "CITATION.cff", "README.md", "package.json"]
+version_provider = "poetry"
+
 [tool.coverage]
 
 [tool.coverage.report]
@@ -43,7 +48,7 @@ classifiers = [
 ]
 description = "Stubs for pyperclip."
 homepage = "https://github.com/Tatsh/pyperclip-stubs"
-keywords = ["command line", "library", "media"]
+keywords = ["clipboard", "stubs", "typing"]
 license = "MIT"
 name = "pyperclip-stubs"
 readme = "README.md"
