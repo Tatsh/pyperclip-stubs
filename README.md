@@ -6,6 +6,12 @@
 [![License](https://img.shields.io/github/license/Tatsh/pyperclip-stubs)](https://github.com/Tatsh/pyperclip-stubs/blob/master/LICENSE.txt)
 [![GitHub commits since latest release (by SemVer including pre-releases)](https://img.shields.io/github/commits-since/Tatsh/pyperclip-stubs/v0.0.2/master)](https://github.com/Tatsh/pyperclip-stubs/compare/v0.0.2...master)
 
+## Deprecation notice
+
+Please use [types-pyperclip](https://pypi.org/project/types-pyperclip/).
+
+## Description
+
 PEP 561 type stubs for pyperclip.
 
 ## Installation
