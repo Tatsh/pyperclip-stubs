@@ -4,7 +4,7 @@
 [![PyPI - Version](https://img.shields.io/pypi/v/pyperclip-stubs)](https://pypi.org/project/pyperclip-stubs/)
 [![GitHub tag (with filter)](https://img.shields.io/github/v/tag/Tatsh/pyperclip-stubs)](https://github.com/Tatsh/pyperclip-stubs/tags)
 [![License](https://img.shields.io/github/license/Tatsh/pyperclip-stubs)](https://github.com/Tatsh/pyperclip-stubs/blob/master/LICENSE.txt)
-[![GitHub commits since latest release (by SemVer including pre-releases)](https://img.shields.io/github/commits-since/Tatsh/pyperclip-stubs/v0.0.2/master)](https://github.com/Tatsh/pyperclip-stubs/compare/v0.0.2...master)
+[![GitHub commits since latest release (by SemVer including pre-releases)](https://img.shields.io/github/commits-since/Tatsh/pyperclip-stubs/v0.0.3/master)](https://github.com/Tatsh/pyperclip-stubs/compare/v0.0.3...master)
 
 ## Deprecation notice
 

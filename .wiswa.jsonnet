@@ -5,7 +5,7 @@ local utils = import 'utils.libjsonnet';
   description: 'PEP 561 type stubs for pyperclip.',
   keywords: ['pep561', 'stubs', 'types'],
   project_name: 'pyperclip-stubs',
-  version: '0.0.2',
+  version: '0.0.3',
   citation+: {
     'date-released': '2025-04-16',
   },
